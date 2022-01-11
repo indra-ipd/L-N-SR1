@@ -343,4 +343,4 @@ for meth in algo:
     sess.close()
 
 print('seed: ', seed)
-plt.show()
+

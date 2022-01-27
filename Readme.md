@@ -4,7 +4,8 @@
 - scipy-1.4.0.dev0+566c09b downloadable from https://github.com/indra-ipd/scipy
 - Tensorflow v1.15.0
 
-### Optimizers implemented using the ScipyOptimizerInterface Class and available on https://github.com/indra-ipd/scipy
+### Optimizers implemented using the ScipyOptimizerInterface Class 
+####(available on https://github.com/indra-ipd/scipy)
 - oLNAQ
 - oL-SR1-N
 - oL-SR1

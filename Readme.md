@@ -5,7 +5,7 @@
 - Tensorflow v1.15.0
 
 ### Optimizers implemented using the ScipyOptimizerInterface Class 
-####(available on https://github.com/indra-ipd/scipy)
+(available on https://github.com/indra-ipd/scipy)
 - oLNAQ
 - oL-SR1-N
 - oL-SR1
